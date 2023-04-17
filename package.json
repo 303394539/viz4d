@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Baic <303394539@qq.com>",
   "scripts": {
-    "deploy": "gh-pages -d viz4d.com -r git@github.com:303394539/viz4d.git",
+    "deploy": "gh-pages -d gh-pages -r git@github.com:303394539/viz4d.git",
     "update": "pnpm update"
   },
   "dependencies": {
